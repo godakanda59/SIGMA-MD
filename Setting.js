@@ -103,7 +103,7 @@ module.exports = {
   antilink_values: process.env.ANTILINK_VALUES || 'https://,chat.whatsapp.com,youtube.com,instagram.com,tiktok.com,vt.tiktok.com,wa.me,facebook.com', // ANTILINKS VALUES, IT WILL TAKE ACTION WHO SEND THESE LINKS
   promote_demote_messages : process.env.PROMOTE_DEMOTE_MESSAGES || 'true' ,     // IF TRUE IT WILL SEND AN ALERT MESSAGE WHEN SOMEONE PROMOTED/DEMOTED IN GROUPS
   antibadwords_values: process.env.ANTI_BAD_WORDS || 'Fuck,porn,sex,xxx,fucker,asshole,fuck you,fuck off',   // IT WILL TAKES ACTIONS WHO SENDS THESE BAD WORDS
-  OPENAI_API_KEY: process.env.OPENAI_API_KEY ||'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' ,    // ADD YOUR OPEN AI KEY IF YOU HAVE
+  OPENAI_API_KEY: process.env.OPENAI_API_KEY ||'aWARErDHWexbSqfvn2MAT3BlbkFJgKBGXWQT7l89Tq47QeEb' ,    // ADD YOUR OPEN AI KEY IF YOU HAVE
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY   || "9wdoGEj8f4adccGjvAZKSj2D",    // ADD YOUR REMOVE BG KEY IF YOU HAVE
   //=================================================================================
 
